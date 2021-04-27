@@ -8,7 +8,7 @@ import plotly.express as px
 import pandas as pd
 import numpy as np
 
-auth_enable = False
+auth_enable = False # bypass
 # Data Exploration with pandas
 # ---------------------------------------
 PATH_TASKS = "resources/ovTasks_TestsPlanned.xlsx"
