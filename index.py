@@ -50,6 +50,7 @@ app.layout = html.Div([
     dcc.Graph(id='my-graph', figure={})
 
 ])
+#test
 
 @app.callback(
     Output(component_id='my-graph', component_property='figure'),
